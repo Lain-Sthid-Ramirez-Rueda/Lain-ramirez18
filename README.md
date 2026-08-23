@@ -73,23 +73,13 @@ Terminal de productividad Deep Work, 100% offline-first. JavaScript + Tailwind C
 
 <br>
 
-## 📊 Estadísticas
+## 📈 Actividad
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lain-ramirez18&show_icons=true&theme=dark&hide_border=true&bg_color=0B0D12&title_color=00E5C3&icon_color=00E5C3&text_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lain-ramirez18&layout=compact&theme=dark&hide_border=true&bg_color=0B0D12&title_color=00E5C3&text_color=ffffff" />
-
-<img src="https://streak-stats.demolab.com?user=Lain-ramirez18&theme=dark&hide_border=true&background=0B0D12&ring=00E5C3&fire=7B61FF&currStreakLabel=00E5C3&sideLabels=ffffff&dates=999999" />
-
-</div>
-
-<br>
-
-## 🏆 Trofeos
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lain-ramirez18&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+![Followers](https://img.shields.io/github/followers/Lain-ramirez18?style=for-the-badge&logo=github&color=0B0D12&labelColor=0B0D12&logoColor=00E5C3)
+![Portafolio stars](https://img.shields.io/github/stars/Lain-ramirez18/Portafolio-tecnologico?style=for-the-badge&color=0B0D12&labelColor=0B0D12&logoColor=00E5C3&logo=github&label=Portafolio%20%E2%98%85)
+![ProAssist stars](https://img.shields.io/github/stars/Lain-ramirez18/proassist?style=for-the-badge&color=0B0D12&labelColor=0B0D12&logoColor=00E5C3&logo=github&label=ProAssist%20%E2%98%85)
+![Last commit](https://img.shields.io/github/last-commit/Lain-ramirez18/Portafolio-tecnologico?style=for-the-badge&color=0B0D12&labelColor=0B0D12&logoColor=00E5C3&logo=github&label=%C3%BAltimo%20commit)
 
 </div>
