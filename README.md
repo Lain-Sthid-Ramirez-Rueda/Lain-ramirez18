@@ -1,14 +1,18 @@
 <div align="center">
 
-# Hola, soy Lain Sthid Ramirez Rueda 👋
+# Lain Sthid Ramirez Rueda
 
-### Analista y Desarrollador de Software · IA aplicada · Python · UI/UX
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=00E5C3&center=true&vCenter=true&width=600&lines=Analista+y+Desarrollador+de+Software;Especialista+en+IA+%26+Automatizaci%C3%B3n;Python+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Astro)](https://lainramirez.vercel.app)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lainramirez.vercel.app-0B0D12?style=for-the-badge&logo=vercel&logoColor=white)](https://lainramirez.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lain%20Sthid%20Ramirez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lain-sthid-ramirez-rueda)
-[![Email](https://img.shields.io/badge/Email-lainramirez18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lainramirez18@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lainramirez.vercel.app-0B0D12?style=for-the-badge&logo=vercel&logoColor=00E5C3)](https://lainramirez.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lain%20Sthid%20Ramirez-0B0D12?style=for-the-badge&logo=linkedin&logoColor=00E5C3)](https://www.linkedin.com/in/lain-sthid-ramirez-rueda)
+[![Email](https://img.shields.io/badge/Email-lainramirez18%40gmail.com-0B0D12?style=for-the-badge&logo=gmail&logoColor=00E5C3)](mailto:lainramirez18@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=Lain-ramirez18&color=00e5c3&style=flat-square&label=Visitas+al+perfil)
 
 </div>
+
+<br>
 
 Graduado del SENA, me especializo en **inteligencia artificial aplicada, automatización, Python y diseño UI/UX** — construyo productos completos, desde la arquitectura hasta la interfaz.
 
@@ -22,15 +26,15 @@ Graduado del SENA, me especializo en **inteligencia artificial aplicada, automat
 
 <div align="left">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0B0D12?style=for-the-badge&logo=python&logoColor=00E5C3)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0D12?style=for-the-badge&logo=typescript&logoColor=00E5C3)
+![React](https://img.shields.io/badge/React-0B0D12?style=for-the-badge&logo=react&logoColor=00E5C3)
+![Astro](https://img.shields.io/badge/Astro-0B0D12?style=for-the-badge&logo=astro&logoColor=00E5C3)
+![HTML5](https://img.shields.io/badge/HTML5-0B0D12?style=for-the-badge&logo=html5&logoColor=00E5C3)
+![CSS3](https://img.shields.io/badge/CSS3-0B0D12?style=for-the-badge&logo=css3&logoColor=00E5C3)
+![Docker](https://img.shields.io/badge/Docker-0B0D12?style=for-the-badge&logo=docker&logoColor=00E5C3)
+![Git](https://img.shields.io/badge/Git-0B0D12?style=for-the-badge&logo=git&logoColor=00E5C3)
+![Flask](https://img.shields.io/badge/Flask-0B0D12?style=for-the-badge&logo=flask&logoColor=00E5C3)
 
 </div>
 
@@ -58,13 +62,10 @@ Chatbot de IA bilingüe impulsado por LLaMA 3.3-70B sobre Groq API. Python + Doc
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" colspan="2">
 
 ### ⚡ [APPFOCUS](https://github.com/Lain-ramirez18/APPFOCUS)
 Terminal de productividad Deep Work, 100% offline-first. JavaScript + Tailwind CSS.
-
-</td>
-<td width="50%">
 
 </td>
 </tr>
@@ -72,11 +73,23 @@ Terminal de productividad Deep Work, 100% offline-first. JavaScript + Tailwind C
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 Estadísticas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lain-ramirez18&show_icons=true&theme=dark&hide_border=true&bg_color=0B0D12" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lain-ramirez18&layout=compact&theme=dark&hide_border=true&bg_color=0B0D12" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lain-ramirez18&show_icons=true&theme=dark&hide_border=true&bg_color=0B0D12&title_color=00E5C3&icon_color=00E5C3&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lain-ramirez18&layout=compact&theme=dark&hide_border=true&bg_color=0B0D12&title_color=00E5C3&text_color=ffffff" />
+
+<img src="https://streak-stats.demolab.com?user=Lain-ramirez18&theme=dark&hide_border=true&background=0B0D12&ring=00E5C3&fire=7B61FF&currStreakLabel=00E5C3&sideLabels=ffffff&dates=999999" />
+
+</div>
+
+<br>
+
+## 🏆 Trofeos
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lain-ramirez18&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
