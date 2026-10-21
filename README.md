@@ -2,23 +2,23 @@
 
 # Lain Sthid Ramirez Rueda
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=00E5C3&center=true&vCenter=true&width=600&lines=Analista+y+Desarrollador+de+Software;Especialista+en+IA+%26+Automatizaci%C3%B3n;Python+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Astro)](https://lainramirez.vercel.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=00E5C3&center=true&vCenter=true&width=600&lines=Analista+y+Desarrollador+de+Software;Frontend+%C2%B7+IA+aplicada;Python+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Astro)](https://lainramirez.vercel.app)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lainramirez.vercel.app-0B0D12?style=for-the-badge&logo=vercel&logoColor=00E5C3)](https://lainramirez.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lain%20Sthid%20Ramirez-0B0D12?style=for-the-badge&logo=linkedin&logoColor=00E5C3)](https://www.linkedin.com/in/lain-sthid-ramirez-rueda)
 [![Email](https://img.shields.io/badge/Email-lainramirez18%40gmail.com-0B0D12?style=for-the-badge&logo=gmail&logoColor=00E5C3)](mailto:lainramirez18@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=Lain-ramirez18&color=00e5c3&style=flat-square&label=Visitas+al+perfil)
+![Profile views](https://komarev.com/ghpvc/?username=Lain-Sthid-Ramirez-Rueda&color=00e5c3&style=flat-square&label=Visitas+al+perfil)
 
 </div>
 
 <br>
 
-Graduado del SENA, me especializo en **inteligencia artificial aplicada, automatización, Python y diseño UI/UX** — construyo productos completos, desde la arquitectura hasta la interfaz.
+Analista y Desarrollador de Software en formación en el **SENA** (Tecnología, finalizo en 2027). Construyo aplicaciones web con **React y TypeScript** e integro **modelos de lenguaje (LLMs)** en productos reales con Python.
 
-- 🔭 Actualmente construyendo un ecosistema de subagentes autónomos de IA para automatizar elicitación de requisitos y análisis de datos.
-- 🌱 Explorando prompt engineering avanzado y orquestación multi-agente.
-- 💬 Preguntame sobre Python, React/TypeScript, IA aplicada o UI/UX.
+- 🏛️ Desarrollador del [sitio oficial del Congreso Virtual de Redes de Conocimiento 2026 del SENA](https://congreso-sena.vercel.app), seleccionado mediante convocatoria y pruebas.
+- 🔭 Explorando orquestación de agentes de IA para automatizar la elicitación de requisitos.
+- 💬 Hablemos de React/TypeScript, Python, IA aplicada o UI/UX.
 
 <br>
 
@@ -44,9 +44,19 @@ Graduado del SENA, me especializo en **inteligencia artificial aplicada, automat
 
 <table>
 <tr>
+<td width="100%" colspan="2">
+
+### 🏛️ [Congreso Virtual de Redes de Conocimiento 2026 · SENA](https://congreso-sena.vercel.app)
+Sitio oficial del evento: agenda de 3 días, galería de 16 pósteres con votación en vivo, visor PDF y versión bilingüe. React 19, TypeScript, TanStack Start, Supabase.
+
+[**Ver sitio →**](https://congreso-sena.vercel.app)
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
-### 🖥️ [Portafolio-tecnologico](https://github.com/Lain-ramirez18/Portafolio-tecnologico)
+### 🖥️ [Portafolio-tecnologico](https://github.com/Lain-Sthid-Ramirez-Rueda/Portafolio-tecnologico)
 Portafolio personal — Astro (SSG) + React + TypeScript, PWA, IA y automatización.
 
 [**Ver en vivo →**](https://lainramirez.vercel.app)
@@ -54,8 +64,8 @@ Portafolio personal — Astro (SSG) + React + TypeScript, PWA, IA y automatizaci
 </td>
 <td width="50%">
 
-### 🤖 [ProAssist](https://github.com/Lain-ramirez18/proassist)
-Chatbot de IA bilingüe impulsado por LLaMA 3.3-70B sobre Groq API. Python + Docker.
+### 🤖 [ProAssist](https://github.com/Lain-Sthid-Ramirez-Rueda/proassist)
+Chatbot de IA bilingüe sobre Groq API, con Flask, Docker y medidas de seguridad (rate limiting, anti-XSS, CSP).
 
 [**Demo en vivo →**](https://proassist-r1q6.onrender.com)
 
@@ -64,8 +74,8 @@ Chatbot de IA bilingüe impulsado por LLaMA 3.3-70B sobre Groq API. Python + Doc
 <tr>
 <td width="50%" colspan="2">
 
-### ⚡ [APPFOCUS](https://github.com/Lain-ramirez18/APPFOCUS)
-Terminal de productividad Deep Work, 100% offline-first. JavaScript + Tailwind CSS.
+### ⚡ [APPFOCUS](https://github.com/Lain-Sthid-Ramirez-Rueda/APPFOCUS)
+Gestor de productividad Deep Work con índice de eficiencia diaria y datos guardados solo en el navegador. React + Tailwind CSS.
 
 </td>
 </tr>
@@ -77,9 +87,9 @@ Terminal de productividad Deep Work, 100% offline-first. JavaScript + Tailwind C
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/Lain-ramirez18?style=for-the-badge&logo=github&color=0B0D12&labelColor=0B0D12&logoColor=00E5C3)
-![Portafolio stars](https://img.shields.io/github/stars/Lain-ramirez18/Portafolio-tecnologico?style=for-the-badge&color=0B0D12&labelColor=0B0D12&logoColor=00E5C3&logo=github&label=Portafolio%20%E2%98%85)
-![ProAssist stars](https://img.shields.io/github/stars/Lain-ramirez18/proassist?style=for-the-badge&color=0B0D12&labelColor=0B0D12&logoColor=00E5C3&logo=github&label=ProAssist%20%E2%98%85)
-![Last commit](https://img.shields.io/github/last-commit/Lain-ramirez18/Portafolio-tecnologico?style=for-the-badge&color=0B0D12&labelColor=0B0D12&logoColor=00E5C3&logo=github&label=%C3%BAltimo%20commit)
+![Followers](https://img.shields.io/github/followers/Lain-Sthid-Ramirez-Rueda?style=for-the-badge&logo=github&color=0B0D12&labelColor=0B0D12&logoColor=00E5C3)
+![Portafolio stars](https://img.shields.io/github/stars/Lain-Sthid-Ramirez-Rueda/Portafolio-tecnologico?style=for-the-badge&color=0B0D12&labelColor=0B0D12&logoColor=00E5C3&logo=github&label=Portafolio%20%E2%98%85)
+![ProAssist stars](https://img.shields.io/github/stars/Lain-Sthid-Ramirez-Rueda/proassist?style=for-the-badge&color=0B0D12&labelColor=0B0D12&logoColor=00E5C3&logo=github&label=ProAssist%20%E2%98%85)
+![Last commit](https://img.shields.io/github/last-commit/Lain-Sthid-Ramirez-Rueda/Portafolio-tecnologico?style=for-the-badge&color=0B0D12&labelColor=0B0D12&logoColor=00E5C3&logo=github&label=%C3%BAltimo%20commit)
 
 </div>
